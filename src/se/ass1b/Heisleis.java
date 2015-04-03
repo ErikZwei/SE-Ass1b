@@ -10,5 +10,7 @@ package se.ass1b;
  * @author erikzweidorff
  */
 public class Heisleis {
+    
+    System.out.println("Blablablack");
     // Blablablackk
 }

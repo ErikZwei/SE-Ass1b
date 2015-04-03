@@ -11,6 +11,6 @@ package se.ass1b;
  */
 public class Heisleis {
     
-    System.out.println("Blablablack");
+    //System.out.println("Blablablack");
     // Blablablackk
 }

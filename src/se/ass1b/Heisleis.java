@@ -10,7 +10,9 @@ package se.ass1b;
  * @author erikzweidorff
  */
 public class Heisleis {
-    
-    //System.out.println("Blablablack");
-    // Blablablackk
+	
+	System.out.println("Denne dritten lagde eg i eclipse folkens!");
+	System.out.println("Må være fordi jeg er så flink!");
+	//Sweet as!
+	
 }

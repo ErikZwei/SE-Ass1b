@@ -11,4 +11,7 @@ package se.ass1b;
  */
 public class OMFEGE {
     
+	
+
+	//"Hey hey hey følkens her driver jeg og bruker GitRepositories fra Eclipse."
 }
